@@ -22,8 +22,8 @@ else:
 ~~~
 ## Output
 ~~
-Enter a number: 8
-EVEN
+<img width="846" height="478" alt="image" src="https://github.com/user-attachments/assets/7e6ea0f0-9419-4bce-84cc-8ee2ee70c7ce" />
+
 ~~
 ## Result
 Thus, the Python program to check whether a given number is even or odd using if...else statements was written and executed successfully.
